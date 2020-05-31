@@ -1,0 +1,7 @@
+Dinos:
+short: khaan, 
+yamb: 'minmi, T-rex ('tyrex), 'troodon,  'bary'onyx, 'bambi'raptor, 'kota'saurus
+horey: yin'long, cau'dipteryx, rin'chenia, tri'ceratops, ve'loci'raptor, di'plodo'cus, 
+dactyl: 'tanius, 'thyreo'phora, 
+amph: kaat(e)'docus, rap'torex, zal'moxes, aar'donyx, coe'lurus, 
+anapest: '(?)rapa'tor, erke'tu
