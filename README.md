@@ -7,3 +7,4 @@ Enjoy!
 ## How to use.
 
 Enter your text in the left textframe and press "Dino it!" to see the result in the right frame. 
+Highlight name of a dinosaur and press "Learn with me!" to be redirected to the page about this dinosaur. If you don't choose any dinosaur and press "Learn with me!", you will be redirected to the random page about one of the dinosaurs we used. 
